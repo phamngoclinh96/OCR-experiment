@@ -1,0 +1,6 @@
+.idea
+*.pyc
+data/
+models/
+storages/
+test/
